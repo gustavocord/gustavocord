@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Gustavo</h1>
-<h3 align="center">Soy desarrollador backend y vivo en Buenos Aires (Argentina)</h3>
+<h3 align="center">Soy Analista de ciberseguridad y vivo en Buenos Aires (Argentina)</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Docker y AWS**
 
