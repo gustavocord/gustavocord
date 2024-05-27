@@ -7,10 +7,6 @@
 
 - 👨‍💻 Puede ver todos mis proyectos en [https://github.com/gustavocord/](https://github.com/gustavocord/)
 
-- 📫 Pueden contactarme a traves de mi mail **cordobagustavoj@gmail.com**
-
-- 📄Puede saber mas acerca de mi en mi LinkedIn [https://www.linkedin.com/in/gustavo-cordoba/](https://www.linkedin.com/in/gustavo-cordoba/)
-
 - ⚡ Sobre mi **Me considero una persona curiosa , autodidacta y creativa**
 
 <h3 align="left">Connect with me:</h3>
