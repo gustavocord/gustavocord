@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Gustavo</h1>
 <h3 align="center">Soy Analista de ciberseguridad y vivo en Buenos Aires (Argentina)</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Docker y AWS**
+- 🌱 Actualmente estoy aprendiendo **Docker y metiendome en el mundo del scraping con python**
 
 - 👯 Colabore en el proyecto [ONG](https://github.com/gustavocord/project-ONG)
 
