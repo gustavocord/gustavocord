@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Gustavo</h1>
 <h3 align="center">Soy Analista de ciberseguridad y vivo en Buenos Aires (Argentina)</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Docker y metiendome en el mundo del scraping con python**
-
-- 👯 Colabore en el proyecto [ONG](https://github.com/gustavocord/project-ONG)
-
 - 👨‍💻 Puede ver todos mis proyectos en [https://github.com/gustavocord/](https://github.com/gustavocord/)
 
 - ⚡ Sobre mi **Me considero una persona curiosa , autodidacta y creativa**
@@ -12,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gustavo-cordoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-cordoba" height="30" width="40" /></a>
-<a href="https://instagram.com/gustavo.cordoba_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavo.cordoba_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
